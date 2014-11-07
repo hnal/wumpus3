@@ -31,6 +31,7 @@
 % e faca a consulta (query) na forma:
 % ?- start.
 
+%luiz entrou
 :- load_files([wumpus1]).
 
 init_agent :- % se nao tiver nada para fazer aqui, simplesmente termine com um ponto (.)
